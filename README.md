@@ -1,5 +1,3 @@
-
-
-A new Flutter project.
+A new Flutter App project.
 
 ## Getting Started
